@@ -43,8 +43,8 @@ I’m passionate about building scalable and efficient web applications with cle
 
 ## 📫 Connect with Me  
 
-- 📧 **Email:** [Hassanakram409@gmail.com](mailto:Hassanakram409@gmail.com)  
-- 💼 **LinkedIn:** www.linkedin.com/in/muhammad-hassan-a6b24121a  
+- 📧 **Email:** [hassanakram409@gmail.com](mailto:hassanakram409@gmail.com)  
+- 💼 **LinkedIn:** [www.linkedin.com/in/muhammad-hassan-a6b24121a](https://www.linkedin.com/in/muhammad-hassan-webdev/)  
 - 🌐 **Portfolio Website:** (add link once ready)  
 
 ---
