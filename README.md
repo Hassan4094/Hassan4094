@@ -33,11 +33,11 @@ I’m passionate about building scalable and efficient web applications with cle
 *(More projects coming soon — stay tuned!)*  
 
 ---
-
 ## 📊 GitHub Stats  
 
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassan4094&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan4094&layout=compact&theme=radical)  
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-hassan-webdev&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-hassan-webdev&layout=compact&theme=radical)  
+
 
 ---
 
